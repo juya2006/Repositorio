@@ -20,3 +20,4 @@ s.thebrighttag.com	FALSE	/	FALSE	1463165824	btpdb.voKfK9l.dGZjLjYyODU4NA	REFZUw
 .netflix.com	TRUE	/	FALSE	1463081225	profilesNewSession	0
 .netflix.com	TRUE	/	FALSE	1463115423	lhpuuidh-browse-CYNDOE5FGNHZ7AS273MWFNWHMA	BR%3ADE-DE%3A9113368f-233d-4e60-92bc-4893fc736355_ROOT
 .netflix.com	TRUE	/	FALSE	1494615433	memclid	5606e19f-d35a-4b22-88a0-dedaa43d7b53
+#agregando otra modificación a otra archivo juya2006

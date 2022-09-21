@@ -15,3 +15,4 @@ s.thebrighttag.com	FALSE	/	FALSE	1458783318	btpdb.voKfK9l.dGZjLjYyODU4NA	REFZUw
 .netflix.com	TRUE	/	FALSE	1458740118	lhpuuidh-browse-XHYFYEAQGVHTLJ4O34UZRAC56Q	BR%3AES-MX%3A0a8b2900-36aa-4f2e-9adc-14b38d426dc6_ROOT
 .netflix.com	TRUE	/	FALSE	1490232938	memclid	0f2340db-521c-4a84-885f-40d6e7672131
 .netflix.com	TRUE	/	FALSE	1458698754	profilesNewSession	0
+# agregando modificaciones a lcódigo
